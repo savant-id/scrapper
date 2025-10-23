@@ -23,6 +23,6 @@ async function cekOperator(phone) {
 
 // usage:
 (async () => {
-    const results = await cekOperator('628568705224');
+    const results = await cekOperator('62xxxxx');
     console.log(results);
 })();
